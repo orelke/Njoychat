@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "812346049369",
+    "firebase_url": "https://njoychat-d3b86.firebaseio.com",
+    "project_id": "njoychat-d3b86",
+    "storage_bucket": "njoychat-d3b86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812346049369:android:ddde0a36711ed1ce71c248",
+        "android_client_info": {
+          "package_name": "com.example.njoychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812346049369-dvapsgr8otje4n8h10279d80qq18q3er.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.njoychat",
+            "certificate_hash": "158fad4e8724c26eb3a1506058ef9f8bce599851"
+          }
+        },
+        {
+          "client_id": "812346049369-70ght32coqje65nuo8tijdhkb0m7g07o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1q42I3vq3nMrUMJTILJytE4apPN-gZjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812346049369-70ght32coqje65nuo8tijdhkb0m7g07o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
